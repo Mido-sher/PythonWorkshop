@@ -1,0 +1,3 @@
+[submodule "session3"]
+	path = session3
+	url = git@github.com:mbourgey/Concordia_Workshop_Biopython.git
